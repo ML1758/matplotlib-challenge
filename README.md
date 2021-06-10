@@ -19,12 +19,12 @@ matplotlib-challenge Assignment - Milinda 'ML' Liyanage
 
 
 ####  The IQR and quantitatively 
-  	* •	The lower quartile of tumour volumes is: 40.2201707875
-	* •	The upper quartile of tumour volumes is: 50.356470630000004
-	* •	The interquartile range of tumour volumes is: 10.136299842500001
-	* •	The median of tumour volumes is: 45.0 
-	* •	Values below 25.01572102375 could be outliers.
-	* •	Values above 65.56092039375001 could be outliers.
+  	* The lower quartile of tumour volumes is: 40.2201707875
+	* The upper quartile of tumour volumes is: 50.356470630000004
+	* The interquartile range of tumour volumes is: 10.136299842500001
+	* The median of tumour volumes is: 45.0 
+	* Values below 25.01572102375 could be outliers.
+	* Values above 65.56092039375001 could be outliers.
 
 * A box plot of the final tumour volume of each mouse across four of the treatment regimens,  Capomulin, Ramicane, Infubinol, and Ceftamin, is displayed.
 * A line plot of tumour volume vs. time point for a mouse treated with Capomulin regimen is displayed.
@@ -52,5 +52,5 @@ matplotlib-challenge Assignment - Milinda 'ML' Liyanage
 
 #### Output Files
 
-* [File in folder](Pymaceuticals/Images/) 
+* [Images are in this folder](Pymaceuticals/Images/) 
 
